@@ -1,4 +1,4 @@
-# Raghunath-M
+# Raghunath-SP
 # Hi there! I'm Raghunath 👋  
 
 Highly motivated and results-oriented aspiring data analyst eager to leverage strong analytical skills and a passion for data.  
