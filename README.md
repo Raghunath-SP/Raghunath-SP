@@ -1,29 +1,29 @@
-# Raghunath-SP
-# Hi there! I'm Raghunath 👋  
+**Hi there! I'm Raghunath SP**
 
-Highly motivated and results-oriented aspiring data analyst eager to leverage strong analytical skills and a passion for data.  
+This is my GitHub profile where I showcase my coding projects, data analysis work, and anything else related to Data Analysis.
 
----
+**What you'll find here:**
 
-## 🔹 What you'll find here:
-- Repositories containing code for various projects, both personal and collaborative.  
-- Data analysis projects showcasing my ability to clean, analyze, and visualize data.  
-- Contributions to open-source projects.  
-- Scripts and tools I’ve built to automate tasks and improve workflows.  
+* Repositories containing code for various projects, including personal and collaborative efforts.
+* Data analysis projects demonstrating my ability to clean, analyze, and visualize data.
+* Contributions to open-source projects.
+* Examples of scripts or tools I've built to automate tasks or improve workflows.
 
----
+**What I'm interested in:**
 
-## 🔹 What I'm interested in:
-- **Programming Languages**: Python, SQL  
-- **Tools**: Excel, Google Sheets, Tableau, Google BigQuery, MySQL, Jupyter Notebook  
-- **Data Analysis Areas**: Data cleaning, Data processing, Data manipulation, Data visualization  
+* Programming languages: Python, SQL
+* Tools: Excel,Power BI,Google sheets,Tableau, MySQL, Jupyter Notebook.
+* Areas of data analysis: Data cleaning, Data processing, Data manipulation, Data visualization.
 
----
+**Connect with me:**
 
-## 🔹 Connect with me:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/raghunath13/)  
-- 🐙 [GitHub](https://github.com/Raghu079)  
+* LinkedIn: [https://www.linkedin.com/in/raghunath13/](https://www.linkedin.com/in/raghunath13/)
+* Github: [https://github.com/Raghunath-SP](https://github.com/Raghunath-SP)
 
----
+**Feel free to:**
 
-✨ Feel free to explore my repositories and connect with me!
+* Browse through my repositories and explore my code.
+* Fork my projects and contribute your own ideas!
+* Reach out to me if you have any questions or want to collaborate!
+
+**I'm constantly learning and growing as a Data Analyst, so check back often to see my latest projects!**
